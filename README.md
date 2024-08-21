@@ -1,9 +1,9 @@
 # Diwali Sales Analysis Using Python
 
-# Introduction
+# Introduction:
 The Diwali Sales Analysis dataset provides insightful information about customer purchasing behavior during the Diwali festival, one of the most celebrated festivals in India. This dataset contains sales data for a retail store during the Diwali festival period in India.
 
-# Dataset Overview
+# Dataset Overview:
 The dataset consists of the following fields:
 1. User_ID: A unique identifier for each customer.
 2. Cust_name: The name of the customer.
